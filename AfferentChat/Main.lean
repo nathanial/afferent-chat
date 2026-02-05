@@ -1,5 +1,4 @@
+import AfferentChat.Canopy.Widget.Chat
+
 namespace AfferentChat
-
--- Your code here
-
 end AfferentChat
